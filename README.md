@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/ashwanisng/">Arafat Tai</a> :smiley:
+# <a href="https://www.linkedin.com/in/arafat213/">Arafat Tai</a> :smiley:
 
  <a href="https://twitter.com/arafat_213">
   <img align="left" alt="Arafat's Twitter" style="padding: 4px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
