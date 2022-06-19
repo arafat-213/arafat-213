@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-Fullstack developer | Project Engineer | Wipro Technologies | MERN
+Fullstack developer | Sorftware Engineer | Bacancy Technologies | MERN
 
 ## About :sunglasses:
 
-Working as a project engineer at Wipro Technologies. Passionate about Fullstack web development.
+Working as a software engineer at Bacancy Technologies. Passionate about Fullstack web development.
 
 ## Languages and Tools :fire:
 
