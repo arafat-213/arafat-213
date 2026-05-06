@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-Fullstack developer | Sorftware Engineer | Bacancy Technologies | MERN | NEXT.js
+Fullstack developer | Sorftware Engineer | MERN | NEXT.js
 
 ## About :sunglasses:
 
-Working as a Senior software engineer at Bacancy Technologies. Passionate about Fullstack web development.
+Passionate about Fullstack web development.
 
 ## Languages and Tools :fire:
 
